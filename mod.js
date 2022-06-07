@@ -2,8 +2,8 @@ const pages = {
   "xck.html": { title: "通信大数据行程卡", type: 1 },
   "unit.html": { title: "场所码", type: 2 },
   "qr.html": { title: "扫码", type: 3 },
-  "hs.html": { title: "苏康码", type: 4 },
-  default: { title: "苏康码", type: 0 },
+  "hs.html": { title: "健康码", type: 4 },
+  default: { title: "健康码", type: 0 },
 };
 
 window.addEventListener("load", () => {
