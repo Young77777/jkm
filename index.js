@@ -40,7 +40,7 @@
 })();
 
 function setTitle(title) {
-  title = title || "苏康码";
+  title = title || "健康码";
   document.title = title;
   document.querySelector(".title span").innerHTML = title;
 }
